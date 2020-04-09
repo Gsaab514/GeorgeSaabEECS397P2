@@ -1,0 +1,14 @@
+These are code the I used to genereate the website
+
+ListC.txt      		: Contains list of country with reported cases
+
+dropdown.awk   		: takes as input ListC.txt and generates dropdown html
+ 			: code.
+dropdown.html  		: Country selection in html
+
+phpselectaction.awk     : takes as input ListC.txt and generates the 
+                        : phpaction.txt 
+phpaction.txt  		: generated php code for phpaction
+
+selectaction.php	: phpcode to test the script
+

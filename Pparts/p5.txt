@@ -1,0 +1,8 @@
+		]
+	},
+	{
+		type: "spline", 
+		showInLegend: true,
+		yValueFormatString: "##.00",
+		name: "Total Deaths",
+		dataPoints: [

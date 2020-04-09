@@ -1,0 +1,8 @@
+These are the parts of the plot scipt.  In between need to insert the data
+The data are in files Data/d1.txt ...
+
+the generate the file:
+
+	cat p1.txt Data/title.txt Pparts/p2.txt Data/d1.txt Pparts/p3.txt Data/d2.txt Pparts/p4.txt Data/d3.txt Pparts/p5.txt Data/d4.txt Pparts/p6.txt>Data/plt.html
+
+This is done in the Data/plt.awk script

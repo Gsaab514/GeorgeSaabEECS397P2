@@ -1,0 +1,9 @@
+	axisY :{ includeZero: false, title: "Number of Patients", suffix: "  " },
+	toolTip: { shared: "true" },
+	legend:{ cursor:"pointer", itemclick : toggleDataSeries },
+	data: [ {
+		type: "spline", 
+		showInLegend: true,
+		yValueFormatString: "##.00",
+		name: "New Cases",
+		dataPoints: [
